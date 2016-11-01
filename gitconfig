@@ -1,0 +1,10 @@
+[user]
+	email = rarctem@gmail.com
+	name = Russell White
+[push]
+	default = simple
+[core]
+	excludesfile = /home/arctem/.gitignore_global
+	editor = emacs
+[pull]
+	rebase = true
